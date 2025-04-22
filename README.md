@@ -26,9 +26,7 @@ A responsive and user-friendly **Currency Converter** built using **HTML**, **CS
 
 ## 🔗 Live Demo
 
-[🚀 Live Preview](https://biswajit-pal1.github.io/Currency-Converter/)  
-_Replace the link above with your GitHub Pages URL_
-
+[🚀 Live Preview](https://biswajit-pal1.github.io/Currency-Converter/)
 ---
 
 ## 📸 Screenshot
